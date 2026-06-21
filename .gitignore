@@ -1,0 +1,9 @@
+node_modules/
+frontend/build/
+backend/uploads/*
+!backend/uploads/.gitkeep
+.env
+.DS_Store
+.claude/
+backend/config/database.php
+backend/config/jwt.php
